@@ -1,3 +1,23 @@
-h1 {
-color: red;	
-}
+body {
+	background-color: rgba(163, 159, 159, 0.726);}
+.body {
+	width: 1150px;
+	height: 2500px;
+	background-color: rgb(226, 219, 210);
+	margin: 0px auto;}
+nav ul {
+	background-color: #aeaca8;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;}
+nav li {
+	display: inline;
+	padding-right: 45px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 18px;
+font-weight: bold;
+text-transform: uppercase;}
+img {
+	width: 370px;
+	height: 470px;}
+	

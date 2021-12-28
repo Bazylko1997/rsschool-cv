@@ -17,5 +17,11 @@ function multiply(a, b){
   return a * b;
 }
 ```
+## Experience
+At the moment I'm doing my first [CV](https://github.com/Bazylko1997/rsschool-cv/edit/gh-pages/cv.md) project.
+## Education
+**University:** Belarusian National Technical University, my specialization is economist.
+## English
+**A1** (Although in school i learned german, last half of year i've learning english with tutor and using different apps in free time)
 
 
